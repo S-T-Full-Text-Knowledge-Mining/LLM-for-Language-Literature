@@ -27,5 +27,5 @@
 ```
 北京外国语大学-孙凤兰老师
 地址：北京市海淀区西三环北路19号北楼2309室
-邮箱：sunfl@bfsu.edu.cn
+邮箱：sunfenglan@bfsu.edu.cn
 ```
